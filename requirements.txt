@@ -1,0 +1,13 @@
+altgraph==0.17.4
+markdown-it-py==3.0.0
+mdurl==0.1.2
+packaging==24.1
+pefile==2023.2.7
+pygame==2.6.1
+Pygments==2.18.0
+pyinstaller==6.11.0
+pyinstaller-hooks-contrib==2024.9
+pywin32-ctypes==0.2.3
+rich==13.9.2
+setuptools==75.2.0
+youtube-dl==2021.12.17
